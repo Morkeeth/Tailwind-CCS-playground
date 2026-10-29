@@ -1,5 +1,17 @@
 # Tailwind CSS Playground
 
+## TLDR
+
+A Tailwind CSS playground with a PostCSS development environment.<br>
+For developers trying styling changes in a small standalone page.<br>
+This checkout derives from the Tailwind playground; preserve upstream attribution and review the local scripts.
+
+## Review and pick up the work
+
+[Agent guide](AGENTS.md)
+
+Start with the linked source, setup and evidence. Recorded demos and sample data keep their original scope; use the repository instructions for a fresh run.
+
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
 To get started:
@@ -55,3 +67,7 @@ yarn production
 ```
 
 After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+
+## License and data boundaries
+
+This checkout has no root license file establishing general reuse rights. Data, provider responses, media, fonts and other third-party assets may have separate terms. Repository access alone does not grant rights to those materials. 
